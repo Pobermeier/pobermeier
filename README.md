@@ -4,8 +4,6 @@ I'm an experienced front-end developer with a solid background in everything rel
 
 👉 Feel free to check out my portfolio website [here](https://www.patrickobermeier.dev/) and my resume [here](https://www.patrickobermeier.dev/resume).
 
-👉 You can also find me on these social media channels:
-* [LinkedIn](https://www.linkedin.com/in/patrickobermeier/)
-* [Twitter](https://github.com/Pobermeier)
+👉 You can also find me on [inkedIn](https://www.linkedin.com/in/patrickobermeier/) and [Twitter](https://github.com/Pobermeier)
 
-👉 [My Stack](https://www.patrickobermeier.dev/uses) ...
+👉 [My Stack](https://www.patrickobermeier.dev/uses)
