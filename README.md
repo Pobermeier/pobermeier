@@ -1,4 +1,4 @@
-## Patrick Obermeier - Frontend Developer & Online-Marketing Expert
+## Patrick Obermeier - Senior Frontend Developer
 
 Hi, I'm Patrick! 👋 I'm an experienced front-end developer with a solid background in everything related to online-marketing on top. It is my passion to build slick & well optimized websites and web apps. 
 
